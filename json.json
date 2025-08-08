@@ -1,0 +1,79 @@
+{
+  "question": [
+    "Q1. What is the purpose of the __str__ method in Python?",
+    "Q2. Which of the following statements is true about Python's global keyword?",
+    "Q3. What is the purpose of the enumerate function in Python?",
+    "Q4. What is the purpose of the try and except blocks in Python?",
+    "Q5. What is the output of print(2 + 3 * 4 / 2)?",
+    "Q6. How do you comment multiple lines in Python?",
+    "Q7. Which of the following is an example of a mutable data type in Python?",
+    "Q8. What does the len() function do in Python?",
+    "Q9. Which method is used to remove the last element from a list in Python?",
+    "Q10. What is the output of print(Hello + World)?"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2,
+    4,
+    3,
+    3,
+    2,
+    4,
+    1
+  ],
+  "options": [
+
+    ["To convert an object to a string representation",
+      "To define a custom constructor for the class",
+      "To compare two objects for equality",
+      "To perform string manipulation operations"
+    ],
+    ["It is used to declare a variable with global scope",
+      "It is used to create a new global variable",
+      "It is used to access a local variable from outside its scope",
+      "It is used to define a constant variable"
+    ],
+    ["To sort elements in a list",
+      "To filter elements based on a given condition",
+      "To iterate over a sequence while keeping track of the index",
+      "To create a new list by applying a function to each element"
+    ],
+    ["To define a loop for iterating over a sequence",
+      "To handle exceptions and prevent program crashes",
+      "To create a new thread for parallel execution",
+      "To define a block of code that always gets executed"
+    ],
+    ["10",
+      "14",
+      "8",
+      "12"
+    ],
+    ["/* Comment */",
+      "// Comment",
+      "''' Comment ''' ",
+      "# Comment"
+    ],
+    ["Tuple",
+      "String",
+      "List ",
+      "Set"
+    ],
+    ["Returns the largest element in a list",
+      "Returns the length of a string or list",
+      "Returns the sum of elements in a tuple ",
+      "Returns the smallest element in a set"
+    ],
+        ["pop()",
+      "remove()",
+      "delete()",
+      "pop(-1)"
+    ],
+    ["Hello World ",
+      "HelloWorld",
+      "Hello + World",
+      "Error"
+    ]
+  ]
+}
